@@ -1,1 +1,1 @@
-# XRS_SIGIR_22
+# Review-Based Explainable Recommendations
