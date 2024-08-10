@@ -11,7 +11,7 @@ conda env create -f environment.yml
 ## Dataset
 The dataset preprocessing code is in ``/data/Sentires-preprocessing.py`` with randomized train|validation|test split in 80|20|20 ratios. 
 
-## Train
+## Train & Evaluation
 The training and evaluation code can be executed with:
 ```
 python /src/run.py
