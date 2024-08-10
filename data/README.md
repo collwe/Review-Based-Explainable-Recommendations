@@ -17,5 +17,5 @@
 	- ``java -jar thuir-sentires.jar -t profile -c lei/5.profile``
 	- ``python lei/6.transform.py``
 	- ``python lei/7.match.py``
-- Modify **Sentires-Lei-preprocessing.py** with the proper folder path. Run the command:
+- Modify **Sentires-preprocessing.py** with the proper folder path. Run the command:
 	- ``python Sentires-preprocessing.py``
