@@ -1,4 +1,4 @@
-# Dataset Preprocessing Stesp
+# Dataset Preprocessing Steps
 
   
 
@@ -6,7 +6,7 @@
 
 - Download the Sentires package **English-Jar** from Github: https://github.com/evison/Sentires
 - Download the **Sentire-lei** package from Github: https://github.com/lileipisces/Sentires-Guide. 
-- Put foler named ``lei`` from **Sentire-lei** into the folder **English-Jar**, modify the **4.lexicon.linux** with proper folder path on line 65, 78, 94, 95.
+- Put folder named ``lei`` from **Sentire-lei** into the folder **English-Jar**, modify the **4.lexicon.linux** with proper folder path on line 65, 78, 94, 95.
 - Run these commands one by one:
 	- ``python lei/0.format.py``
 	- ``java -jar thuir-sentires.jar -t pre -c lei/1.pre``
