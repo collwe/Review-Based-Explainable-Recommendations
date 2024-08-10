@@ -14,6 +14,6 @@ The dataset preprocessing code is in ``/data/Sentires-preprocessing.py`` with ra
 ## Train & Evaluation
 The training and evaluation code can be executed with:
 ```
-python /src/run.py
+python src/run.py
 ```
 Default parameters are not the best performing-hyper-parameters. Hyper-parameter selection on the validation set has been specified in Subsection 5.1.4 in our paper and needs to be done through the command line arguments.
